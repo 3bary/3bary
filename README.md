@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/3bary](https://github.com/3bary)
+- 👨‍💻 All of my projects are available at [my Github](https://github.com/3bary)
 
-- 📝 I regularly write articles on [http://www.linkedin.com/in/mohamed-ashraf-8a4154219](http://www.linkedin.com/in/mohamed-ashraf-8a4154219)
+- 📝 I regularly write articles on [Linkedin Profile](http://www.linkedin.com/in/mohamed-ashraf-8a4154219)
 
 - 💬 Ask me about **Dart ,Flutter**
 
-- 📫 How to reach me **moa3bary@gmail.com**
+- 📫 How to reach me **mohamed.ashraf6282@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
